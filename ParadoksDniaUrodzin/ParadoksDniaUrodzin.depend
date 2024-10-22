@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1707132108 source:c:\users\barte\onedrive\pulpit\iii semestr\3.5 algorytmy analizy numerycznej\laboratorium\paradoksdniaurodzin\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1707132108 source:c:\users\barte\onedrive\pulpit\projekty\paradoksdniaurodzin\main.c
+	<stdio.h>
+	<stdlib.h>
+

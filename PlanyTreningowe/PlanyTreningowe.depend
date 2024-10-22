@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1677686588 source:c:\users\barte\onedrive\pulpit\planytreningowe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypy.h"
+
+1676225674 c:\users\barte\onedrive\pulpit\planytreningowe\funkcje.h
+
+1678894377 source:c:\users\barte\onedrive\pulpit\planytreningowe\funkcje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1678894399 source:c:\users\barte\onedrive\pulpit\planytreningowe\rehabilitacja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1676225674 c:\users\barte\onedrive\pulpit\planytreningowe\rehabilitacja.h
+
+1678978128 c:\users\barte\onedrive\pulpit\planytreningowe\prototypy.h
+
+1678894645 source:c:\users\barte\onedrive\pulpit\planytreningowe\progresja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1681226460 source:c:\users\barte\onedrive\pulpit\planytreningowe\gotowce.c
+	<stdio.h>
+	<stdlib.h>
+
+1678894377 source:c:\users\barte\onedrive\pulpit\projekty\planytreningowe\funkcje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684866703 source:c:\users\barte\onedrive\pulpit\projekty\planytreningowe\gotowce.c
+	<stdio.h>
+	<stdlib.h>
+
+1677686588 source:c:\users\barte\onedrive\pulpit\projekty\planytreningowe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypy.h"
+
+1684868612 c:\users\barte\onedrive\pulpit\projekty\planytreningowe\prototypy.h
+
+1684868506 source:c:\users\barte\onedrive\pulpit\projekty\planytreningowe\progresja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1678894399 source:c:\users\barte\onedrive\pulpit\projekty\planytreningowe\rehabilitacja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687794071 source:c:\users\barte\onedrive\pulpit\projekty\quicksort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
