@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1688221990 source:c:\users\barte\onedrive\pulpit\projekty\testcpp\src\tklasa.cpp
+	"Tklasa.h"
+	<iostream>
+
+1688221967 c:\users\barte\onedrive\pulpit\projekty\testcpp\include\tklasa.h
+	<string>
+
+1688369701 source:c:\users\barte\onedrive\pulpit\projekty\testcpp\main.cpp
+	<iostream>
+	"Tklasa.h"
+	<time.h>
+	<cstdlib>
+
